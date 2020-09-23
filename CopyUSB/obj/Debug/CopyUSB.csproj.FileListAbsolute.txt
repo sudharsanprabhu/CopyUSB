@@ -1,0 +1,13 @@
+D:\DOCUMENTS\Visual Studio 2015\Projects\CopyUSB\CopyUSB\bin\Debug\CopyUSB.exe.config
+D:\DOCUMENTS\Visual Studio 2015\Projects\CopyUSB\CopyUSB\bin\Debug\CopyUSB.exe
+D:\DOCUMENTS\Visual Studio 2015\Projects\CopyUSB\CopyUSB\bin\Debug\CopyUSB.pdb
+D:\DOCUMENTS\Visual Studio 2015\Projects\CopyUSB\CopyUSB\obj\Debug\CopyUSB.csprojResolveAssemblyReference.cache
+D:\DOCUMENTS\Visual Studio 2015\Projects\CopyUSB\CopyUSB\obj\Debug\CopyUSB.Properties.Resources.resources
+D:\DOCUMENTS\Visual Studio 2015\Projects\CopyUSB\CopyUSB\obj\Debug\CopyUSB.csproj.GenerateResource.Cache
+D:\DOCUMENTS\Visual Studio 2015\Projects\CopyUSB\CopyUSB\obj\Debug\CopyUSB.exe
+D:\DOCUMENTS\Visual Studio 2015\Projects\CopyUSB\CopyUSB\obj\Debug\CopyUSB.pdb
+D:\DOCUMENTS\Visual Studio 2015\Projects\CopyUSB\CopyUSB\obj\Debug\CopyUSB.CopyUSB.resources
+D:\DOCUMENTS\Visual Studio 2015\Projects\CopyUSB\CopyUSB\bin\Debug\CopyUSB.exe.manifest
+D:\DOCUMENTS\Visual Studio 2015\Projects\CopyUSB\CopyUSB\bin\Debug\CopyUSB.application
+D:\DOCUMENTS\Visual Studio 2015\Projects\CopyUSB\CopyUSB\obj\Debug\CopyUSB.exe.manifest
+D:\DOCUMENTS\Visual Studio 2015\Projects\CopyUSB\CopyUSB\obj\Debug\CopyUSB.application
